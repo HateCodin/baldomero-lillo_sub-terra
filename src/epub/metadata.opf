@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">11b6808c-46c5-40a6-aff2-ee64ed4aabf9</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">83313918-4641-43c7-b46b-b1d14f3f2f6e</dc:identifier>
+    <dc:title>Sub Terra</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Baldomero Lillo</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>spa</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="txt/start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="css/style.css" media-type="text/css"/>
+    <item id="id1" href="txt/cuento_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="txt/cuento_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="txt/cuento_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="img/cover.png" media-type="image/png"/>
+    <item id="titlepage" href="txt/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="txt/cuento_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="txt/cuento_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="txt/cuento_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="txt/cuento_007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="txt/cuento_008.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="start"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="txt/titlepage.xhtml"/>
+  </guide>
+</package>

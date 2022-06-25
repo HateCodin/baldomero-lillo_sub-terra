@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* Styles for Sub Terra */
+
+body {
+  margin: 5%;
+}
+p {
+  text-align: justify;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  text-align: center;
+}

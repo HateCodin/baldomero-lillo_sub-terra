@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta name="dtb:uid" content="83313918-4641-43c7-b46b-b1d14f3f2f6e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.42.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Sub Terra</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="txt/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="txt/start.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Sub Terra</text>
+      </navLabel>
+      <content src="txt/start.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>LOS INVÁLIDOS</text>
+      </navLabel>
+      <content src="txt/cuento_001.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>LA COMPUERTA NUMERO 12</text>
+      </navLabel>
+      <content src="txt/cuento_002.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>EL GRISÚ</text>
+      </navLabel>
+      <content src="txt/cuento_003.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>EL PAGO</text>
+      </navLabel>
+      <content src="txt/cuento_004.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>EL CHIFLON DEL DIABLO</text>
+      </navLabel>
+      <content src="txt/cuento_005.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>EL POZO</text>
+      </navLabel>
+      <content src="txt/cuento_006.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>JUAN FARIÑA (1)</text>
+      </navLabel>
+      <content src="txt/cuento_007.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>CAZA MAYOR</text>
+      </navLabel>
+      <content src="txt/cuento_008.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
